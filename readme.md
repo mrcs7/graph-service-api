@@ -7,7 +7,7 @@
 
 -Gaph nodes of persons and edges (Person Follow another). 
 -Crud Operations in persons.  
--r and Unfollow Endpoints (Make Edge and Remove Edge).  
+-Follow and Unfollow Endpoints (Make Edge and Remove Edge).  
 -Validations in Requests.  
 -All Apis Accept Json Body.  
 -Apis collection is here  
